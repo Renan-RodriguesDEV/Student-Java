@@ -1,0 +1,91 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "APP4",
+      "request": "launch",
+      "mainClass": "ddSoft.condicionais.APP4",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "Ordenacao",
+      "request": "launch",
+      "mainClass": "dateStrutuctEpoo.Ordenacao",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "ImparPar",
+      "request": "launch",
+      "mainClass": "dateStrutuctEpoo.ImparPar",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "Iversao",
+      "request": "launch",
+      "mainClass": "dateStrutuctEpoo.Iversao",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "BubleSort",
+      "request": "launch",
+      "mainClass": "dateStrutuctEpoo.BubleSort",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "Fatorial",
+      "request": "launch",
+      "mainClass": "dateStrutuctEpoo.Fatorial",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "APP3",
+      "request": "launch",
+      "mainClass": "dateStrutuctEpoo.APP3",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "ddSoft.condicionais.App",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "VideoGame",
+      "request": "launch",
+      "mainClass": "game.VideoGame",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "Tela",
+      "request": "launch",
+      "mainClass": "calculoCirculo.Tela",
+      "projectName": "Aplications_2f08d204"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "CalculoTriangulo.App",
+      "projectName": "Aplications_2f08d204"
+    }
+  ]
+}

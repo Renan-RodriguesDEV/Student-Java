@@ -1,4 +1,4 @@
-package devacademy;
+package devacademy.classes.videogame;
 
 //nao se pd criar objts de uma classe abstrata
 public abstract class Personagem {

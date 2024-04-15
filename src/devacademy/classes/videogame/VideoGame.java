@@ -1,4 +1,4 @@
-package devacademy;
+package devacademy.classes.videogame;
 
 import javax.swing.JOptionPane;
 

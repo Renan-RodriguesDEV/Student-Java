@@ -1,4 +1,4 @@
-package devacademy;
+package devacademy.classes.videogame;
 
 public class Rushador extends Personagem {
     private String arma;

@@ -1,4 +1,4 @@
-package devacademy;
+package devacademy.colletions;
 
 import java.util.*;
 import javax.swing.*;
@@ -18,11 +18,11 @@ public class ArraysList {
                 break;
             }
         }
-        
+
         for (String string : lista) {
             System.out.println(string);
         }
-        
+
         lista.clear();// limpa tds os elementos
     }
 }

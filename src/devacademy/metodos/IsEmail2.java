@@ -1,4 +1,4 @@
-package devacademy;
+package devacademy.metodos;
 
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,4 @@
-package devacademy;
+package devacademy.colletions;
 
 import java.util.HashMap;
 import java.util.Map;
